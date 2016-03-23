@@ -4,3 +4,4 @@ Git is a distributed.
 test branch git
 create a new branch is quick and simple
 合并分支commit;
+Bug分支，正在工作
